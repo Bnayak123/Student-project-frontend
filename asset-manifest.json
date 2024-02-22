@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Student-project-frontend/static/css/main.f251f349.css",
+    "main.js": "/Student-project-frontend/static/js/main.17e61cd4.js",
+    "index.html": "/Student-project-frontend/index.html",
+    "main.f251f349.css.map": "/Student-project-frontend/static/css/main.f251f349.css.map",
+    "main.17e61cd4.js.map": "/Student-project-frontend/static/js/main.17e61cd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f251f349.css",
+    "static/js/main.17e61cd4.js"
+  ]
+}
